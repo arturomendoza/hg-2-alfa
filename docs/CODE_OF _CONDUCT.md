@@ -1,55 +1,52 @@
 
-# Code of Conduct
+# Contributor Code of Conduct
 
-The "Group 5" community expects the activities:
+Our [company values](https://auth0.com/careers/culture) guide us in our day-to-day interactions and decision-making. Our open source projects are no exception. Trust, respect, collaboration and transparency are core values we believe should live and breathe within our projects. Our community welcomes participants from around the world with different experiences, unique perspectives, and great ideas to share.
 
-1. Be a safe and respectful environment for all participants.
-2. Be a place where they can express their identities freely.
-3. Assume the value of others. Everyone's ideas, skills, and contributions have value.
-4. Do not assume that all participants have or understand the same context and promote discussion and questions.
-5. That its members be encouraged to listen as they speak.
-6. Strive to create tools that are open and free for public use. Priority will be given to activities that promote the public use of these tools and technologies; not private gain.
-7. Priority access and input will be given to people who are traditionally excluded from the civic process.
-8. Ensure that the entire community is represented in the planning, design, and implementation of any civic technology. This includes the participation of women, minorities, and groups that have traditionally been marginalized.
-9. Actively involve community groups and those who have expertise in the issue and in the decision-making process.
-10. Ensure that conversations between community members and friends of the community are respectful, productive, and participatory.
-11. Provide an environment free from discrimination and harassment.
- 
-"Group 5" reserves the right to ask any person not to participate in its activities if they have violated any of these rules.
+## Our Pledge
 
-## "Group 5" Anti-Harassment Policy
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-This policy is based on [this example](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) found on the "Geek Feminism" Wiki created by the Ada Initiative and other volunteers.
+## Our Standards
 
-----
+Examples of behavior that contributes to creating a positive environment include:
 
-All "Group 5" staff, presenters, and event participants are subject to the anti-harassment policy below.
+- Using welcoming and inclusive language
+- Being respectful of differing viewpoints and experiences
+- Gracefully accepting constructive criticism
+- Attempting collaboration before conflict
+- Focusing on what is best for the community
+- Showing empathy towards other community members
 
-"Group 5" is committed to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, physical disability, physical appearance, body size, ethnicity, age, or religion. Harassment of any kind towards organisers, presenters or participants is not tolerated. Language and/or images of a sexual nature are not appropriate, presentation or activity of "Group 5". 
- Anyone who violates these policies will be expelled from the "Group 5" activity.
+Examples of unacceptable behavior by participants include:
 
-Harassment includes but is not limited to: offensive comments, whether verbal or written, regarding gender, gender identity or expression, sexual orientation, physical disability, physical appearance, body size, ethnicity, religion; sexual images in public spaces; deliberate intimidation; ambush; harassing recording or photographing; constant disruption or sabotage of events or presentations; inappropriate physical contact; unwanted sexual attention; unjustified exclusion; & Actions or derogatory language.
+- Violence, threats of violence, or inciting others to commit self-harm
+- The use of sexualized language or imagery and unwelcome sexual attention or advances
+- Trolling, intentionally spreading misinformation, insulting/derogatory comments, and personal or political attacks
+- Public or private harassment
+- Publishing others' private information, such as a physical or electronic address, without explicit permission
+- Abuse of the reporting process to intentionally harass or exclude others
+- Advocating for, or encouraging, any of the above behavior
+- Other conduct which could reasonably be considered inappropriate in a professional setting
 
-If any participant behaves in any unacceptable way, the organizers are free to take whatever action they deem appropriate. This includes warning for behavior or expulsion from "Group 5" activities.
+## Our Responsibilities
 
-If you are receiving or feel harassed, notice someone being harassed, or have any other concerns, please contact a member immediately. You can use [ORGANIZER'S PHONE AND EMAIL].
-Members of the organizing committee are available to assist any participant, call security at the event venue or even call the local police if warranted. They are also willing to escort and assist the participant who feels harassed to feel safe for the duration of the event.
+Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
-If you are unable to reach the organizers and it is an emergency, please contact 911, or your local emergency number, and/or remove yourself from the situation until help arrives or you feel safe.
+Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
 
-You can also contact "Group 5" about a particular harassment situation using the email account which is **jamcr7@gmail.com**. You can use the following template to send your email. The members of "Group 5" hope that by providing this behavior guide we are establishing a community that adheres to these values and can provide a pleasant and inclusive environment for all.
+## Scope
 
+This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
 
-We value your presence and hope that by communicating these expectations we can all enjoy a harassment-free environment.
+## Enforcement
 
-## Draft to Report Harassment
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting us anonymously through [this form](https://goo.gl/forms/chVYUnA4bP70WGsL2). All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident.
 
-TOPIC: REPORTING HARASSMENT
+Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
 
-I am writing to report a "Group 5" harassment, (JOSE MENDOZA, VENEZUELA, APR-2024).
+If you are unsure whether an incident is a violation, or whether the space where the incident took place is covered by our Code of Conduct, **we encourage you to still report it**. We would prefer to have a few extra reports where we decide to take no action, than to leave an incident go unnoticed and unresolved that may result in an individual or group to feel like they can no longer participate in the community. Reports deemed as not a violation will also allow us to improve our Code of Conduct and processes surrounding it. If you witness a dangerous situation or someone in distress, we encourage you to report even if you are only an observer.
 
-I can be reached at (CONTACT INFORMATION). Thank you.
+## Attribution
 
-----
-
-THANKS FOR READING. 
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), [version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html).
